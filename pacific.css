@@ -5,7 +5,7 @@ header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 /*add background pictures/formatting for such*/
 body {
 	background-color: #00569f;
-	background-image: url("C:/Code/website-2/ptrbackground.jpg");
+	background-image: url("ptrbackground.jpg");
 	background-repeat: repeat-x;
 	font-family: Arial, Helvetica, sans-serif;
 
@@ -13,7 +13,7 @@ body {
 
 header {
 	text-align: left;
-	background-image: url("C:/Code/website-2/sunset.jpg");
+	background-image: url("sunset.jpg");
 	background-position: right;
 	background-color: #170436;
 	display: flex;
@@ -124,6 +124,6 @@ p span {
 }
 
 #content ul{
-	list-style-image: url("C:/Code/website-2/marker.gif");
+	list-style-image: url("marker.gif");
 	list-style-position: inside;
 }
